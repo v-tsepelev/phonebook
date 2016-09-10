@@ -10,8 +10,8 @@ GNU General Public License for more details. */
 
 // Author: Vladimir Tsepelev, tsepelev at openmailbox.org. September 2016.
 
-#ifndef PHONEBOOK_H
-#define PHONEBOOK_H
+#ifndef PHONEBOOK_HPP
+#define PHONEBOOK_HPP
 
 class abonent
 {
