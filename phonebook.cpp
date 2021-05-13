@@ -174,7 +174,7 @@ void abonent::remove_contact()
       {
 	if (search_for.compare(current_string) == 0)
 	  {
-	    for (int i{0}; i < 5; ++i)
+	    for (int i{0}; i < 6; ++i)
 	      {
 		std::getline(old_file, current_string);
 	      }
